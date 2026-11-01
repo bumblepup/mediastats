@@ -1,0 +1,26 @@
+{
+    "repo": {
+        "id": "repository.foxglove",
+        "name": "Foxglove Plugins for Unmanic",
+        "icon": "",
+        "repo_data_directory": "https://raw.githubusercontent.com/bumblepup/mediastats/repo/",
+        "repo_data_url": "https://raw.githubusercontent.com/bumblepup/mediastats/repo/repo.json"
+    },
+    "plugins": [
+        {
+            "author": "Foxglove",
+            "compatibility": [
+                2
+            ],
+            "description": "Unmanic plugin for MediaStats.",
+            "icon": "",
+            "id": "mediastats",
+            "name": "MediaStats",
+            "priorities": {
+                "on_library_management_file_test": 0
+            },
+            "tags": "",
+            "version": "0.0.1"
+        }
+    ]
+}

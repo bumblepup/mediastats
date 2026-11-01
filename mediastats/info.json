@@ -1,0 +1,15 @@
+{
+    "author": "Foxglove",
+    "compatibility": [
+        2
+    ],
+    "description": "Unmanic plugin for MediaStats.",
+    "icon": "",
+    "id": "mediastats",
+    "name": "MediaStats",
+    "priorities": {
+        "on_library_management_file_test": 0
+    },
+    "tags": "",
+    "version": "0.0.1"
+}
