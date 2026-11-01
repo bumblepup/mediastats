@@ -1,4 +1,4 @@
-# Unmanic Plugins by <!-- your name here -->
+# MediaStats
 
 ## Instructions
 
